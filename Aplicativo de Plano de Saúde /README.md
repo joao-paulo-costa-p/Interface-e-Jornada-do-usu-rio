@@ -14,7 +14,7 @@ Acesso Direto: *Atalho em destaque para "Psicólogo de Plantão" logo na tela in
 Filtros Inteligentes: *Busca simplificada por disponibilidade (data/hora) e especialidade.<br>*
 Fluxo Acolhedor: *Redução de campos de formulário desnecessários para evitar a sobrecarga do usuário.<br>*
 Confirmação Imediata: *Feedback claro de sucesso no agendamento para reduzir a ansiedade.<br>*
---
+
 <div align="center">
   <a href="https://www.figma.com/proto/d7s7Yx6b658ORzhFxxeYVP/wireframe---APP-Plano-de-Sa%C3%BAde?node-id=0-1&t=hdnnfb4rOQN7n4T6-1">
     <img src="Icones/celular.png" alt="Protótipo do Aplicativo" width="300">
