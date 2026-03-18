@@ -6,7 +6,7 @@ O objetivo deste projeto foi organizar as múltiplas funcionalidades de um App d
 Persona: *Adulto, rotina ocupada.<br>*
 Estado Emocional: *Vulnerável e com baixa tolerância a processos complexos ou burocráticos (fricção).<br>*
 Necessidade: *Encontrar um psicólogo disponível e agendar com o mínimo de cliques possível.<br>*
---
+
 ## 🛠️ Soluções de Design Aplicadas
 Para atender aos requisitos de baixa fricção, o wireframe focou em:
 
