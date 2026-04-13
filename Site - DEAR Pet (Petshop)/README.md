@@ -21,8 +21,7 @@ O objetivo deste projeto foi estruturar a interface desktop do módulo de Abertu
 .*Recebam feedback claro sobre etapas do processo.<br>*
 
 ## 🐾 Detalhamento do Wireframe:
-### 1. Fluxo de Solicitação (Foco na Persona)<br>
-Ação Rápida: Botão de "Novo Chamado" em destaque para usuários com pressa.<br>
+### 1. Fluxo de Solicitação (Foco na Persona)
 Seleção Intuitiva: Categorias de serviços claras para evitar erros de preenchimento.<br>
 
 ### 2. Gestão e Acompanhamento
