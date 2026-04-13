@@ -20,9 +20,25 @@ O objetivo deste projeto foi estruturar a interface desktop do módulo de Abertu
 .*Consultem histórico de atendimentos.<br>*
 .*Recebam feedback claro sobre etapas do processo.<br>*
 
+##🐾 Detalhamento do Wireframe:
+###1. Fluxo de Solicitação (Foco na Persona)
+Ação Rápida: Botão de "Novo Chamado" em destaque para usuários com pressa.<br>
+Seleção Intuitiva: Categorias de serviços claras para evitar erros de preenchimento.<br>
+
+###2. Gestão e Acompanhamento
+Status Visual: Uso de tags e cores para identificar rapidamente o progresso (Pendente/Concluído).<br>
+Histórico e Filtros: Lista organizada com filtros por categoria, facilitando a consulta sem suporte humano.<br>
+
+###3. Detalhes e Autonomia
+Timeline do Processo: Visualização clara das etapas para reduzir a ansiedade do usuário.<br>
+Edição Prática: Campo para complementar informações diretamente no chamado aberto.<br>
+
+###4. Área Administrativa
+Painel de Controle: Focado na atualização ágil de status e feedback em tempo real para o cliente.
+
 ## 🌐 Link:
 <div align="center">
-  <a href="[https://www.figma.com/proto/d7s7Yx6b658ORzhFxxeYVP/wireframe---APP-Plano-de-Sa%C3%BAde?node-id=0-1&t=hdnnfb4rOQN7n4T6-1](https://www.figma.com/proto/GW5Q7fw1ZKGeRpM5733p3u/SITE---DEAR-Pet--Petshop-?node-id=89-24&p=f&t=cf2jDdYyeU0dovix-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=89%3A24)">
+  <a href="">
     <img src="Icones/DeatPet.png" alt="Site DEAR Pet" width="300">
   </a>
   <p>✨ Clique na imagem acima para acessar o protótipo interativo no Figma </p>
