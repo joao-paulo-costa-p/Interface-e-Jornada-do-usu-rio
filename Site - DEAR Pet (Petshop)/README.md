@@ -8,17 +8,17 @@ O objetivo deste projeto foi estruturar a interface desktop do módulo de Abertu
 **Necessidade:** *Registrar uma nova solicitação de serviço e acompanhar seu status.<br>*
 
 ## Tarefas secundárias (mínimo esperado):
-.*Consultar histórico de solicitações<br>*
-.*Editar ou complementar uma solicitação<br>*
-.*Filtrar solicitações por status ou categoria<br>*
-.*Visualizar detalhes completos de um chamado<br>*
+. *Consultar histórico de solicitações<br>*
+. *Editar ou complementar uma solicitação<br>*
+. *Filtrar solicitações por status ou categoria<br>*
+. *Visualizar detalhes completos de um chamado<br>*
 
 ## 🧑‍💼 Área do Administrador - Objetivo do módulo:
-.*Abram solicitações de forma simples.<br>*
-.*Escolham corretamente o tipo de serviço.<br>*
-.*Acompanhem o status dos pedidos.<br>*
-.*Consultem histórico de atendimentos.<br>*
-.*Recebam feedback claro sobre etapas do processo.<br>*
+. *Abram solicitações de forma simples.<br>*
+. *Escolham corretamente o tipo de serviço.<br>*
+. *Acompanhem o status dos pedidos.<br>*
+. *Consultem histórico de atendimentos.<br>*
+. *Recebam feedback claro sobre etapas do processo.<br>*
 
 ## 🐾 Detalhamento do Wireframe:
 ### 1. Fluxo de Solicitação (Foco na Persona)
