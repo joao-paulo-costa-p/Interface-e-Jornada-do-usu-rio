@@ -13,7 +13,7 @@ O objetivo deste projeto foi estruturar a interface desktop do módulo de Abertu
 .*Filtrar solicitações por status ou categoria<br>*
 .*Visualizar detalhes completos de um chamado<br>*
 
-## 👤 Área do Administrador - Objetivo do módulo:
+## 🧑‍💼 Área do Administrador - Objetivo do módulo:
 .*Abram solicitações de forma simples.<br>*
 .*Escolham corretamente o tipo de serviço.<br>*
 .*Acompanhem o status dos pedidos.<br>*
