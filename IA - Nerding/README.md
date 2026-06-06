@@ -14,9 +14,10 @@ O problema real identificado que motivou a criação da IA envolve os seguintes 
   <a href="https://www.figma.com/proto/B8OZvBYnhxoIiGMbJUEVdG/Sem-t%C3%ADtulo?node-id=1-15&p=f&t=vH2udIQQDjHVKOpR-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A14&starting-point-node-id=1%3A15">
     <img src="Logo/logo NERDING.png" alt="Site NERDING" width="300">
 </a>
-  <div align="left">
+  <div align="center">
   <p>🚀 Clique na imagem acima para acessar o protótipo interativo no Figma </p>
+  <div align="left">
   <p>⚠️ Algunso AVISOS! </p>
-  <p>Para navegar melhor oculte a UI </p>
-  <p>Infelizmente existe um bug com a troca de cor da IA, então não estranhe se alguns componentes mudarem de cor errado. </p>
+  <p>1. Para navegar melhor oculte a UI </p>
+  <p>2. Infelizmente existe um bug com a troca de cor da IA, então não estranhe se alguns componentes mudarem de cor errado. </p>
 </div>
