@@ -10,4 +10,6 @@ O problema real identificado que motivou a criação da IA envolve os seguintes 
 **⏱️ Falta de tempo e sobrecarga: Tanto os estudantes enfrentam dificuldades para absorver o conteúdo em curtos períodos de tempo, quanto os professores sofrem por serem "muito ocupados" para gerenciar suas tarefas pedagógicas básicas.**
 
 ## 🌐 Link
-Para acessar o protótipo da NERDING basta clicar na imagem abaixo:
+<div align="center">
+  <a href="https://www.figma.com/proto/B8OZvBYnhxoIiGMbJUEVdG/Sem-t%C3%ADtulo?node-id=1-15&p=f&t=vH2udIQQDjHVKOpR-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A14&starting-point-node-id=1%3A15">
+    <img src="Logo/logo NERDING.png" alt="Site NERDING" width="300">
